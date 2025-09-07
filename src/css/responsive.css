@@ -41,7 +41,7 @@
             }
 
             &:active {
-                transform: translateX(-30px) scale(1.5);
+                transform: scale(1.5);
                 transition: 0.8s transform cubic-bezier(0.075, 0.82, 0.165, 1);
             }
 
